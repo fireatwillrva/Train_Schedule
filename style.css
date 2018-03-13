@@ -1,0 +1,13 @@
+body {
+    background-image: url(http://www.shorpy.com/files/images/SHORPY_4a18653a.jpg);
+    background-size: 100%;
+    background-repeat: round;
+}
+
+.jumbotron {
+    opacity: 0.7;
+}
+
+.panel {
+    opacity: 0.98;
+}
